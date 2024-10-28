@@ -1,0 +1,101 @@
+Rank	Genome_ID	Organism	BioSample_ID	Date	Location	Host	Similarity_score	p-value
+1	GCA_000581795.1	Acinetobacter baumannii	SAMN02384927	-	-	-	99.98293	0.00141
+2	SRR12952259	Staphylococcus aureus	SAMN16605372	2014-05-31	USA	Homo sapiens	99.98094	0.00141
+3	SRR13174322	Staphylococcus aureus	SAMN16952632	2016-01-01/2017-01-01	USA	-	99.98094	0.00141
+4	GCA_900097995.1	Staphylococcus aureus	SAMEA1708674	2012	United_Kingdom	bovine	99.97640	0.00142
+5	SRR4359677	Staphylococcus aureus	SAMN05868202	2013	United_Kingdom	Homo sapiens	99.97640	0.00142
+6	GCA_000175955.1	Staphylococcus aureus	SAMN02595361	-	-	-	99.97186	0.00142
+7	GCA_001019355.2	Staphylococcus aureus	SAMN03255455	-	-	Homo sapiens	99.97186	0.00142
+8	GCA_009259725.1	Staphylococcus aureus	SAMN12359202	2010-06	USA	-	99.97186	0.00142
+9	GCA_009752875.1	Staphylococcus aureus	SAMN13331845	2017-12	USA	Homo sapiens	99.97186	0.00142
+10	GCA_009752965.1	Staphylococcus aureus	SAMN13331844	2017-12	USA	Homo sapiens	99.97186	0.00142
+11	GCA_009759575.1	Staphylococcus aureus	SAMN13331838	2017-12	USA	Homo sapiens	99.97186	0.00142
+12	GCA_017329105.1	Staphylococcus aureus	SAMN17372415	2009	Switzerland	Homo sapiens	99.97186	0.00142
+13	ERR1512719	Staphylococcus aureus	SAMEA4058979	-	-	-	99.97186	0.00142
+14	ERR3280997	Staphylococcus aureus	SAMEA5567476	2018-09-23	Switzerland	-	99.97186	0.00142
+15	ERR5055846	Staphylococcus aureus	SAMEA7768838	2013	USA	Mus musculus	99.97186	0.00142
+16	ERR5055847	Staphylococcus aureus	SAMEA7768839	2013	USA	Mus musculus	99.97186	0.00142
+17	ERR5055848	Staphylococcus aureus	SAMEA7768840	2013	USA	Mus musculus	99.97186	0.00142
+18	SRR10177864	Staphylococcus aureus	SAMN12839755	-	-	Homo sapiens	99.97186	0.00142
+19	SRR10177866	Staphylococcus aureus	SAMN12839753	-	-	Homo sapiens	99.97186	0.00142
+20	SRR10177906	Staphylococcus aureus	SAMN12839749	-	-	Homo sapiens	99.97186	0.00142
+21	SRR10177910	Staphylococcus aureus	SAMN12839746	-	-	Homo sapiens	99.97186	0.00142
+22	GCA_010365625.1	Staphylococcus aureus	SAMN13952132	2016-01-01	Netherlands	Homo sapiens	99.82915	0.00145
+23	GCA_010365665.1	Staphylococcus aureus	SAMN13952133	2016-01-01	Netherlands	Homo sapiens	99.81543	0.00146
+24	GCA_008123485.1	Acinetobacter baumannii	SAMN12605424	2002	Taiwan	Homo sapiens	91.40559	0.00607
+25	GCA_000820685.1	Acinetobacter baumannii	SAMEA3158506	-	-	-	89.80521	0.00775
+26	GCA_902161435.1	Klebsiella pneumoniae	SAMEA104567656	2018	United_Kingdom	Homo sapiens	89.57949	0.00802
+27	GCA_000820665.1	Acinetobacter baumannii	SAMEA3158456	-	-	-	89.53620	0.00807
+28	ERR2505557	Staphylococcus aureus	SAMEA1068055	2008	Netherlands	Macaque	89.53340	0.00807
+29	GCA_018912305.1	Staphylococcus aureus	SAMN19579774	2015	China	Homo sapiens	89.53340	0.00807
+30	GCA_015573855.1	Staphylococcus aureus	SAMEA4387460	-	-	-	89.53340	0.00807
+31	SRR12472576	Staphylococcus aureus	SAMN14997161	2015	China	-	89.53340	0.00807
+32	GCA_016497905.1	Acinetobacter baumannii	SAMEA5799173	-	Singapore	-	89.53340	0.00807
+33	GCA_015605505.1	Staphylococcus aureus	SAMEA53064418	-	-	-	89.53339	0.00807
+34	GCA_000221785.2	Staphylococcus aureus	SAMN00116892	-	-	-	89.53338	0.00807
+35	GCA_015579715.1	Staphylococcus aureus	SAMEA4387121	-	-	-	89.53338	0.00807
+36	GCA_900126005.1	Staphylococcus aureus	SAMEA3448915	2015	Thailand	Homo sapiens	89.53338	0.00807
+37	GCA_000369165.1	Acinetobacter baumannii	SAMN01828151	1992	Czech_Republic	Homo sapiens	89.53337	0.00807
+38	GCA_002504145.1	Acinetobacter baumannii	SAMN06099024	2010	China	Homo sapiens	89.53337	0.00807
+39	GCA_006366335.1	Acinetobacter baumannii	SAMN08471721	2014-06-21	China	Homo sapiens	89.53337	0.00807
+40	GCA_008806535.1	Acinetobacter baumannii	SAMN12810221	2011	Malaysia	Homo sapiens	89.53337	0.00807
+41	GCA_016497945.1	Acinetobacter baumannii	SAMEA5799174	-	Singapore	-	89.53337	0.00807
+42	GCA_016510255.1	Acinetobacter baumannii	SAMN09517677	2010-05-28	Australia	Homo sapiens	89.53337	0.00807
+43	GCA_016511635.1	Acinetobacter baumannii	SAMN09517686	2011-12-23	Australia	Homo sapiens	89.53337	0.00807
+44	GCA_900495205.1	Acinetobacter baumannii	SAMEA104305226	2016	Thailand	Homo sapiens	89.53337	0.00807
+45	GCA_000174535.1	Staphylococcus aureus	SAMN02595321	-	-	-	89.53337	0.00807
+46	GCA_000332665.1	Staphylococcus aureus	SAMN00116855	-	-	-	89.53337	0.00807
+47	GCA_002088055.1	Staphylococcus aureus	SAMN06624119	-	-	-	89.53337	0.00807
+48	GCA_009660545.1	Staphylococcus aureus	SAMN13242398	2016-11	Ghana	Livestock	89.53337	0.00807
+49	GCA_011027565.1	Staphylococcus aureus	SAMN13979444	2012	Guatemala	Homo sapiens	89.53337	0.00807
+50	GCA_013405155.1	Staphylococcus aureus	SAMN13740941	2007-05-25	Canada	Bos taurus	89.53337	0.00807
+51	GCA_015573295.1	Staphylococcus aureus	SAMEA4387468	-	-	-	89.53337	0.00807
+52	GCA_903803555.1	Staphylococcus aureus	SAMEA4008778	1998	Ireland	Homo sapiens	89.53337	0.00807
+53	ERR628402	Acinetobacter baumannii	SAMEA2779785	2014	Germany	-	89.53337	0.00807
+54	ERR628410	Acinetobacter baumannii	SAMEA2779793	2014	Germany	-	89.53337	0.00807
+55	ERR2505655	Staphylococcus aureus	SAMEA1068029	2005	Austria	Goat	89.53337	0.00807
+56	ERR2505658	Staphylococcus aureus	SAMEA1067986	2000	Belgium	Rabbit	89.53337	0.00807
+57	ERR4656787	Staphylococcus aureus	SAMEA7375625	2017	France	Homo sapiens	89.53337	0.00807
+58	ERR5056025	Staphylococcus aureus	SAMEA7769018	2010	Germany	Homo sapiens	89.53337	0.00807
+59	SRR11812779	Staphylococcus aureus	SAMN14973435	-	-	-	89.53337	0.00807
+60	SRR12472564	Staphylococcus aureus	SAMN14997172	2015	China	-	89.53337	0.00807
+61	SRR12472565	Staphylococcus aureus	SAMN14997171	2015	China	-	89.53337	0.00807
+62	SRR13174277	Staphylococcus aureus	SAMN16952645	2016-01-01/2017-01-01	USA	-	89.53337	0.00807
+63	SRR14291802	Staphylococcus aureus	SAMN18779672	2020-01	China	-	89.53337	0.00807
+64	SRR14291836	Staphylococcus aureus	SAMN18779633	2020-01	China	-	89.53337	0.00807
+65	SRR3545511	Staphylococcus aureus	SAMN04904096	-	China	-	89.53337	0.00807
+66	GCA_002212115.1	Acinetobacter baumannii	SAMN04924790	2013	Saudi_Arabia	Homo sapiens	89.52343	0.00809
+67	GCA_008982265.1	Acinetobacter baumannii	SAMD00174855	2011	Japan	Homo sapiens	89.52340	0.00809
+68	ERR3280996	Staphylococcus aureus	SAMEA5567475	2007-01-23	Netherlands	N	89.52340	0.00809
+69	GCA_009749725.1	Staphylococcus aureus	SAMN13332042	2017-12	USA	Homo sapiens	89.52340	0.00809
+70	GCA_009750205.1	Staphylococcus aureus	SAMN13332014	2017-12	USA	Homo sapiens	89.52340	0.00809
+71	GCA_903800055.1	Staphylococcus aureus	SAMEA4008602	-	Ireland	Homo sapiens	89.51869	0.00809
+72	GCA_000302015.1	Acinetobacter baumannii	SAMN02471251	-	-	Homo sapiens	89.51714	0.00809
+73	GCA_000588315.1	Acinetobacter baumannii	SAMN02415072	-	-	-	89.51714	0.00809
+74	GCA_000708795.1	Acinetobacter baumannii	SAMN02803891	2012-10-28	USA	Homo sapiens	89.51714	0.00809
+75	GCA_002014435.1	Acinetobacter baumannii	SAMN06117718	2009-10-29	USA	Homo sapiens	89.51714	0.00809
+76	GCA_003843745.1	Acinetobacter baumannii	SAMN05828164	2012-07	South_Korea	Homo sapiens	89.51714	0.00809
+77	GCA_008987025.1	Acinetobacter baumannii	SAMD00174927	2012	Japan	Homo sapiens	89.51714	0.00809
+78	GCA_008988965.1	Acinetobacter baumannii	SAMD00174958	2013	Japan	Homo sapiens	89.51714	0.00809
+79	GCA_016471835.1	Acinetobacter baumannii	SAMN16940021	2019	USA	Homo sapiens	89.51714	0.00809
+80	GCA_016473675.1	Acinetobacter baumannii	SAMN16842665	2019	USA	Homo sapiens	89.51714	0.00809
+81	GCA_016477545.1	Acinetobacter baumannii	SAMN15598657	-	USA	Homo sapiens	89.51714	0.00809
+82	GCA_016489465.1	Acinetobacter baumannii	SAMN14792015	2019-03-13	USA	Homo sapiens	89.51714	0.00809
+83	GCA_016489925.1	Acinetobacter baumannii	SAMN14792038	2019-11-15	USA	Homo sapiens	89.51714	0.00809
+84	GCA_016491165.1	Acinetobacter baumannii	SAMN14669284	2019	USA	Homo sapiens	89.51714	0.00809
+85	GCA_016491245.1	Acinetobacter baumannii	SAMN14669283	2019	USA	Homo sapiens	89.51714	0.00809
+86	GCA_016609245.1	Acinetobacter baumannii	SAMN15598635	-	USA	Homo sapiens	89.51714	0.00809
+87	SRR11096099	Acinetobacter baumannii	SAMN12287015	2019	USA	Homo sapiens	89.51714	0.00809
+88	GCA_000682475.1	Acinetobacter baumannii	SAMN02692958	-	USA	Homo sapiens	89.51711	0.00809
+89	GCA_003522705.1	Acinetobacter baumannii	SAMN07520237	2012-08	Mexico	Homo sapiens	89.51711	0.00809
+90	GCA_006494085.1	Acinetobacter baumannii	SAMN12087689	2012	Peru	Homo sapiens	89.51711	0.00809
+91	GCA_008123545.1	Acinetobacter baumannii	SAMN12605425	2007	Taiwan	Homo sapiens	89.51711	0.00809
+92	GCA_008830885.1	Acinetobacter baumannii	SAMN12869263	2012	Malaysia	Homo sapiens	89.51711	0.00809
+93	GCA_016507415.1	Acinetobacter baumannii	SAMEA4547940	-	-	-	89.51711	0.00809
+94	GCA_016507725.1	Acinetobacter baumannii	SAMEA4547759	-	-	-	89.51711	0.00809
+95	GCA_016507785.1	Acinetobacter baumannii	SAMEA4547750	-	-	-	89.51711	0.00809
+96	GCA_016510075.1	Acinetobacter baumannii	SAMN09517694	2014-02-10	Australia	Homo sapiens	89.51711	0.00809
+97	GCA_016510375.1	Acinetobacter baumannii	SAMN09517696	2014-04-24	Australia	Homo sapiens	89.51711	0.00809
+98	GCA_016510395.1	Acinetobacter baumannii	SAMN09517697	2014-07-29	Australia	Homo sapiens	89.51711	0.00809
+99	GCA_016510455.1	Acinetobacter baumannii	SAMN09517700	2015-12-27	Australia	Homo sapiens	89.51711	0.00809
+100	GCA_016511135.1	Acinetobacter baumannii	SAMN09517684	2011-09-23	Australia	Homo sapiens	89.51711	0.00809

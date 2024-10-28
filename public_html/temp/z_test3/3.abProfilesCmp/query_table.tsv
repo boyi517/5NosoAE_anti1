@@ -1,0 +1,7 @@
+Resistance gene	Similarity (<i>S</i><sub>IC</sub> )	1.Tobramycin	1.Amikacin	1.Dibekacin	1.Netilmicin	1.Sisomicin	3.Fluoroquinolone	3.Ciprofloxacin	4.Amoxicillin	4.Amoxicillin+Clavulanic_acid	4.Ampicillin	4.Ampicillin+Clavulanic_acid	4.Imipenem	4.Meropenem	5.Sulfamethoxazole	22.Benzylkonium_Chloride	22.Ethidium_Bromide	22.Chlorhexidine	22.Cetylpyridinium_Chloride
+aac(6')-Ib3	100.000	V	V	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+blaOXA-20	100.000	 	 	 	 	 	 	 	V	V	V	V	 	 	 	 	 	 	 
+blaOXA-58	100.000	 	 	 	 	 	 	 	V	V	V	V	V	V	 	 	 	 	 
+aac(6')-Ib-cr	99.805	V	V	V	V	V	V	V	 	 	 	 	 	 	 	 	 	 	 
+sul1	100.000	 	 	 	 	 	 	 	 	 	 	 	 	 	V	 	 	 	 
+qacE	92.342	 	 	 	 	 	 	 	 	 	 	 	 	 	 	V	V	V	V

@@ -1,0 +1,4 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+tet(O/32/O)	99.69	1920/1920	100.0	1..1920	1	2255486..2257405	Warning: gene is missing from Notes file. Please inform curator.	AIOQ01000025
+tet(W)	99.01	1920/1920	100.0	1..1920	1	99843..101762	Tetracycline resistance	FN396364
+tet(40)	99.51	1221/1221	100.0	1..1221	1	2257554..2258774	Tetracycline resistance	AM419751

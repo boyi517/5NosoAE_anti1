@@ -1,0 +1,4 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+blaOXA-114g	100.00	828/828	100.0	1..828	contig_00023	92364..93191	Warning: gene is missing from Notes file. Please inform curator.	HM368376
+OqxB	72.90	1380/3153	42.30891214716143	138..1494	contig_00103	3402..4758	Disinfectant resistance	EU370913
+OqxB	72.90	1380/3153	42.30891214716143	138..1494	contig_00103	3402..4758	Disinfectant resistance	EU370913

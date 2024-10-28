@@ -1,0 +1,101 @@
+Rank	Genome_ID	Organism	BioSample_ID	Date	Location	Host	Similarity_score	p-value
+1	SRR12375771	Pseudomonas aeruginosa	SAMN15716667	2016	China	-	99.63640	0.01412
+2	GCA_003195315.1	Klebsiella pneumoniae	SAMN09266896	2017	USA	Homo sapiens	89.19075	0.03124
+3	ERR712505	Pseudomonas aeruginosa	SAMEA3180268	2013	Germany	Homo sapiens	87.90933	0.03447
+4	GCA_000412575.2	Klebsiella pneumoniae	SAMN01999147	-	-	-	87.73033	0.03494
+5	GCA_002857385.1	Klebsiella pneumoniae	SAMN07793212	2016-12-17	USA	cow	87.39250	0.03586
+6	GCA_002856715.1	Klebsiella pneumoniae	SAMN07793222	2017-01-02	USA	cow	87.30478	0.03610
+7	SRR11187851	Staphylococcus aureus	SAMN14210367	2018	Russia	Homo_sapiens	86.48989	0.03843
+8	GCA_002856065.1	Klebsiella pneumoniae	SAMN07793259	2017-01-31	USA	cow	86.48235	0.03845
+9	GCA_010603545.1	Staphylococcus aureus	SAMN12251115	2016-02-15	USA	Homo sapiens	86.41214	0.03866
+10	GCA_010587045.1	Acinetobacter baumannii	SAMN12250861	2015-08-24	USA	Homo sapiens	86.31765	0.03894
+11	GCA_002855935.1	Klebsiella pneumoniae	SAMN07793285	2017-02-08	USA	cow	86.10209	0.03959
+12	SRR13312490	Staphylococcus aureus	SAMN17170400	-	-	Homo sapiens	86.04557	0.03976
+13	SRR13312491	Staphylococcus aureus	SAMN17170399	-	-	Homo sapiens	86.04557	0.03976
+14	SRR13312492	Staphylococcus aureus	SAMN17170398	-	-	Homo sapiens	86.04557	0.03976
+15	SRR13312493	Staphylococcus aureus	SAMN17170397	-	-	Homo sapiens	86.04557	0.03976
+16	SRR13312494	Staphylococcus aureus	SAMN17170396	-	-	Homo sapiens	86.04557	0.03976
+17	SRR13312496	Staphylococcus aureus	SAMN17170394	-	-	Homo sapiens	86.04557	0.03976
+18	SRR13312497	Staphylococcus aureus	SAMN17170417	-	-	Homo sapiens	86.04557	0.03976
+19	SRR13312498	Staphylococcus aureus	SAMN17170416	-	-	Homo sapiens	86.04557	0.03976
+20	SRR13312501	Staphylococcus aureus	SAMN17170413	-	-	Homo sapiens	86.04557	0.03976
+21	SRR13312504	Staphylococcus aureus	SAMN17170393	-	-	Homo sapiens	86.04557	0.03976
+22	SRR13312507	Staphylococcus aureus	SAMN17170408	-	-	Homo sapiens	86.04557	0.03976
+23	SRR13312508	Staphylococcus aureus	SAMN17170407	-	-	Homo sapiens	86.04557	0.03976
+24	SRR13312509	Staphylococcus aureus	SAMN17170406	-	-	Homo sapiens	86.04557	0.03976
+25	SRR13312510	Staphylococcus aureus	SAMN17170405	-	-	Homo sapiens	86.04557	0.03976
+26	SRR13312511	Staphylococcus aureus	SAMN17170404	-	-	Homo sapiens	86.04557	0.03976
+27	SRR13312513	Staphylococcus aureus	SAMN17170402	-	-	Homo sapiens	86.04557	0.03976
+28	SRR13312515	Staphylococcus aureus	SAMN17170392	-	-	Homo sapiens	86.04557	0.03976
+29	SRR5580756	Staphylococcus aureus	SAMN07139324	-	-	Homo sapiens	86.04557	0.03976
+30	GCA_009912015.1	Staphylococcus aureus	SAMN11175637	-	-	Homo sapiens	86.03902	0.03978
+31	GCA_004352055.1	Pseudomonas aeruginosa	SAMN10743692	2013	Italy	Homo sapiens	85.96550	0.04001
+32	GCA_004352485.1	Pseudomonas aeruginosa	SAMN10743683	2013	Italy	Homo sapiens	85.79510	0.04054
+33	GCA_008040525.1	Staphylococcus aureus	SAMN12570093	2018-02-06	South_Africa	Homo sapiens	85.78481	0.04057
+34	GCA_008040555.1	Staphylococcus aureus	SAMN12570092	2017-12-20	South_Africa	Homo sapiens	85.78481	0.04057
+35	GCA_010364445.1	Staphylococcus aureus	SAMN13948058	2011	USA	Equus ferus caballus	85.78481	0.04057
+36	GCA_010364545.1	Staphylococcus aureus	SAMN13948043	2010	USA	Equus ferus caballus	85.78481	0.04057
+37	GCA_011023595.1	Staphylococcus aureus	SAMN13979499	2013	Peru	Homo sapiens	85.78481	0.04057
+38	GCA_014696415.1	Staphylococcus aureus	SAMN14559931	2016	Nigeria	Homo sapiens	85.78481	0.04057
+39	GCA_014696535.1	Staphylococcus aureus	SAMN14550524	2016	Nigeria	Homo sapiens	85.78481	0.04057
+40	GCA_014696835.1	Staphylococcus aureus	SAMN14598174	2016	Nigeria	Homo sapiens	85.78481	0.04057
+41	GCA_015272895.1	Staphylococcus aureus	SAMN15665318	2017-04-28	Australia	Homo sapiens	85.78481	0.04057
+42	GCA_015272955.1	Staphylococcus aureus	SAMN15665317	2017-04-28	Australia	Homo sapiens	85.78481	0.04057
+43	GCA_015272965.1	Staphylococcus aureus	SAMN15665316	2017-04-28	Australia	Homo sapiens	85.78481	0.04057
+44	GCA_015272975.1	Staphylococcus aureus	SAMN15665315	2017-04-28	Australia	Homo sapiens	85.78481	0.04057
+45	GCA_015273015.1	Staphylococcus aureus	SAMN15665313	2017-04-28	Australia	Homo sapiens	85.78481	0.04057
+46	GCA_015273035.1	Staphylococcus aureus	SAMN15665314	2017-04-28	Australia	Homo sapiens	85.78481	0.04057
+47	GCA_015713245.1	Staphylococcus aureus	SAMN10689450	2013-10	USA	Homo sapiens	85.78481	0.04057
+48	GCA_015714505.1	Staphylococcus aureus	SAMN10689355	2011-12	USA	Homo sapiens	85.78481	0.04057
+49	GCA_017698555.1	Staphylococcus aureus	SAMN16420370	2017	France	Homo sapiens	85.78481	0.04057
+50	GCA_018165115.1	Staphylococcus aureus	SAMEA6656621	2018	Denmark	Homo sapiens	85.78481	0.04057
+51	GCA_018995105.1	Staphylococcus aureus	SAMN19679289	2010-02	Pakistan	Homo sapiens	85.78481	0.04057
+52	GCA_900097405.1	Staphylococcus aureus	SAMEA3109330	2014	Tanzania	Homo sapiens	85.78481	0.04057
+53	GCA_900097675.1	Staphylococcus aureus	SAMEA2298743	2013	Tanzania	Homo sapiens	85.78481	0.04057
+54	GCA_900097885.1	Staphylococcus aureus	SAMEA2298711	2008	Tanzania	Homo sapiens	85.78481	0.04057
+55	ERR1512850	Staphylococcus aureus	SAMEA4058976	-	-	-	85.78481	0.04057
+56	ERR1592274	Staphylococcus aureus	SAMEA4390293	2015	DR_Congo	Homo sapiens	85.78481	0.04057
+57	ERR1592301	Staphylococcus aureus	SAMEA4390312	2015	DR_Congo	Homo sapiens	85.78481	0.04057
+58	ERR2639499	Staphylococcus aureus	SAMEA4728740	2016	United_Kingdom	Homo sapiens	85.78481	0.04057
+59	ERR2919974	Staphylococcus aureus	SAMEA5096376	-	-	-	85.78481	0.04057
+60	ERR2919976	Staphylococcus aureus	SAMEA5096378	-	-	-	85.78481	0.04057
+61	ERR2919983	Staphylococcus aureus	SAMEA5096385	-	-	-	85.78481	0.04057
+62	ERR2919984	Staphylococcus aureus	SAMEA5096386	-	-	-	85.78481	0.04057
+63	ERR4656819	Staphylococcus aureus	SAMEA7375658	2019	France	Homo sapiens	85.78481	0.04057
+64	ERR5052518	Staphylococcus aureus	SAMEA7471354	2015-17	Nigeria	Homo sapiens	85.78481	0.04057
+65	ERR5052521	Staphylococcus aureus	SAMEA7471357	2015-17	Nigeria	Homo sapiens	85.78481	0.04057
+66	SRR11278527	Staphylococcus aureus	SAMN14342147	2016	Australia	Homo sapiens	85.78481	0.04057
+67	SRR11278556	Staphylococcus aureus	SAMN14342121	2017	Australia	Homo sapiens	85.78481	0.04057
+68	SRR11612769	Staphylococcus aureus	SAMN14733330	2017	USA	Homo sapiens	85.78481	0.04057
+69	SRR12078818	Staphylococcus aureus	SAMN15354604	2018	Samoa	Homo sapiens	85.78481	0.04057
+70	SRR12472804	Staphylococcus aureus	SAMN14997533	2015	China	-	85.78481	0.04057
+71	SRR12952292	Staphylococcus aureus	SAMN16605342	2015-05-06	USA	Homo sapiens	85.78481	0.04057
+72	SRR2124621	Staphylococcus aureus	SAMN03859784	-	-	-	85.67190	0.04092
+73	ERR5056511	Klebsiella pneumoniae	SAMEA7773807	2015	Norway	Homo sapiens	85.66963	0.04093
+74	SRR7588841	Klebsiella pneumoniae	SAMN09630373	2016-03-12	USA	-	85.65775	0.04097
+75	SRR7588845	Klebsiella pneumoniae	SAMN09630348	2016	USA	-	85.65775	0.04097
+76	ERR5056611	Klebsiella pneumoniae	SAMEA7773907	2015	Norway	Homo sapiens	85.64143	0.04102
+77	SRR7588834	Klebsiella pneumoniae	SAMN09630340	2016-05-15	USA	-	85.62969	0.04106
+78	ERR5056348	Klebsiella pneumoniae	SAMEA7773644	2015	Norway	Homo sapiens	85.62676	0.04106
+79	ERR6294210	Klebsiella pneumoniae	SAMEA8948597	2009	Norway	Homo sapiens	85.62676	0.04106
+80	ERR5056325	Klebsiella pneumoniae	SAMEA7773621	2015	Norway	Homo sapiens	85.61830	0.04109
+81	SRR5165558	Klebsiella pneumoniae	SAMN03159480	-	-	-	85.61796	0.04109
+82	ERR5056515	Klebsiella pneumoniae	SAMEA7773811	2015	Norway	Homo sapiens	85.61775	0.04109
+83	SRR10694524	Klebsiella pneumoniae	SAMN13523844	2017-09-27	USA	bovine	85.61775	0.04109
+84	ERR6294095	Klebsiella pneumoniae	SAMEA8948477	2009	Norway	Homo sapiens	85.61521	0.04110
+85	ERR5056606	Klebsiella pneumoniae	SAMEA7773902	2015	Norway	Homo sapiens	85.61223	0.04111
+86	ERR5056555	Klebsiella pneumoniae	SAMEA7773851	2015	Norway	Homo sapiens	85.60915	0.04112
+87	SRR4115190	Klebsiella pneumoniae	SAMN05723006	2014	USA	Homo sapiens	85.60657	0.04113
+88	ERR3722864	Staphylococcus aureus	SAMEA6377523	-	-	-	85.60525	0.04113
+89	ERR5056306	Klebsiella pneumoniae	SAMEA7773602	2015	Norway	Homo sapiens	85.60308	0.04114
+90	SRR14986330	Klebsiella pneumoniae	SAMN19856750	2020-10-12	-	-	85.60308	0.04114
+91	SRR7588833	Klebsiella pneumoniae	SAMN09630341	2016-07-17	USA	-	85.60308	0.04114
+92	ERR5056638	Klebsiella pneumoniae	SAMEA7773934	2015	Norway	Homo sapiens	85.60065	0.04115
+93	ERR5056467	Klebsiella pneumoniae	SAMEA7773763	2015	Norway	Homo sapiens	85.59758	0.04116
+94	SRR7588839	Klebsiella pneumoniae	SAMN09630335	2016	USA	-	85.59723	0.04116
+95	ERR5056345	Klebsiella pneumoniae	SAMEA7773641	2015	Norway	Homo sapiens	85.59484	0.04117
+96	ERR5056551	Klebsiella pneumoniae	SAMEA7773847	2015	Norway	Homo sapiens	85.59484	0.04117
+97	ERR5056386	Klebsiella pneumoniae	SAMEA7773682	2015	Norway	Homo sapiens	85.59166	0.04118
+98	GCA_900458235.1	Staphylococcus aureus	SAMEA3504591	1947	United_Kingdom	Bovine	85.58101	0.04121
+99	ERR6293569	Klebsiella pneumoniae	SAMEA8948819	2015	Norway	Homo sapiens	85.57411	0.04123
+100	ERR6293576	Klebsiella pneumoniae	SAMEA8948826	2015	Norway	Homo sapiens	85.57137	0.04124
