@@ -1,0 +1,102 @@
+Found: blaPAO_3_FJ666073
+Found: blaPAO_2_FJ666065
+Found: blaPAO_4_AY083592
+Found: blaPAO_1_AY083595
+Found: blaOXA-114g_1_HM368376
+Saving: contig_00023:92364..93191:blaOXA-114g_1_HM368376:100.000000
+Found: blaOXA-114e_1_HM104634
+Same contig: contig_00023 == contig_00023
+	blaOXA-114e_1_HM104634 vs blaOXA-114g_1_HM368376
+	overlap found (827): blaOXA-114e_1_HM104634
+Found: blaOXA-114b_1_HM056040
+Same contig: contig_00023 == contig_00023
+	blaOXA-114b_1_HM056040 vs blaOXA-114g_1_HM368376
+	overlap found (827): blaOXA-114b_1_HM056040
+Found: blaOXA-114c_1_HM056041
+Same contig: contig_00023 == contig_00023
+	blaOXA-114c_1_HM056041 vs blaOXA-114g_1_HM368376
+	overlap found (827): blaOXA-114c_1_HM056041
+Found: blaOXA-114f_1_HM368375
+Same contig: contig_00023 == contig_00023
+	blaOXA-114f_1_HM368375 vs blaOXA-114g_1_HM368376
+	overlap found (827): blaOXA-114f_1_HM368375
+Found: blaOXA-114d_1_HM104633
+Same contig: contig_00023 == contig_00023
+	blaOXA-114d_1_HM104633 vs blaOXA-114g_1_HM368376
+	overlap found (827): blaOXA-114d_1_HM104633
+Found: blaOXA-114a_1_EU188842
+Same contig: contig_00023 == contig_00023
+	blaOXA-114a_1_EU188842 vs blaOXA-114g_1_HM368376
+	overlap found (827): blaOXA-114a_1_EU188842
+Found: blaOXA-459_1_KP903889
+Same contig: contig_00023 == contig_00023
+	blaOXA-459_1_KP903889 vs blaOXA-114g_1_HM368376
+	overlap found (815): blaOXA-459_1_KP903889
+	827 <= 1642
+		Scores: 88.64734299516908 cmp 100.0
+Found: blaOXA-455_1_KP903885
+Same contig: contig_00023 == contig_00023
+	blaOXA-455_1_KP903885 vs blaOXA-114g_1_HM368376
+	overlap found (815): blaOXA-455_1_KP903885
+	827 <= 1642
+		Scores: 88.04347826086958 cmp 100.0
+Found: blaOXA-243_1_AFRQ01000031
+Same contig: contig_00023 == contig_00023
+	blaOXA-243_1_AFRQ01000031 vs blaOXA-114g_1_HM368376
+	overlap found (815): blaOXA-243_1_AFRQ01000031
+	827 <= 1642
+		Scores: 87.82794955031665 cmp 100.0
+Found: blaOXA-513_1_KU323972
+Same contig: contig_00023 == contig_00023
+	blaOXA-513_1_KU323972 vs blaOXA-114g_1_HM368376
+	overlap found (815): blaOXA-513_1_KU323972
+	827 <= 1642
+		Scores: 87.92270531400968 cmp 100.0
+Found: blaOXA-457_1_KP903887
+Same contig: contig_00023 == contig_00023
+	blaOXA-457_1_KP903887 vs blaOXA-114g_1_HM368376
+	overlap found (815): blaOXA-457_1_KP903887
+	827 <= 1642
+		Scores: 87.92270531400968 cmp 100.0
+Found: blaOXA-458_1_KP903888
+Same contig: contig_00023 == contig_00023
+	blaOXA-458_1_KP903888 vs blaOXA-114g_1_HM368376
+	overlap found (814): blaOXA-458_1_KP903888
+	827 <= 1641
+		Scores: 87.1048238135834 cmp 100.0
+Found: blaOXA-258_1_HE614014
+Same contig: contig_00023 == contig_00023
+	blaOXA-258_1_HE614014 vs blaOXA-114g_1_HM368376
+	overlap found (814): blaOXA-258_1_HE614014
+	827 <= 1641
+		Scores: 85.83416583416583 cmp 100.0
+Found: blaOXA-364_1_JX306689
+Same contig: contig_00023 == contig_00023
+	blaOXA-364_1_JX306689 vs blaOXA-114g_1_HM368376
+	overlap found (793): blaOXA-364_1_JX306689
+	827 <= 1620
+		Scores: 84.68978822957494 cmp 100.0
+Found: car(A)_1_M80346
+Found: srm(B)_1_X63451
+Found: car(A)_1_M80346
+Found: OqxB_1_EU370913
+Found: OqxB_1_EU370913
+Saving: contig_00103:3402..4758:OqxB_1_EU370913:30.842584
+Found: OqxB_1_EU370913
+Found: OqxB_1_EU370913
+Saving: contig_00103:3402..4758:OqxB_1_EU370913:30.842584
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 57.604 57.604 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 57.604 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 57.604 0 0 0 0 0 0 0 0 0 0 0 57.604 0 0 57.604 0 0]
+[ 0.     0.     0.     0.     0.     0.     0.     0.     0.     0.
+  0.     0.     0.     0.     0.     0.     0.     0.     0.     0.
+  0.     0.     0.    57.604 57.604  0.     0.     0.     0.     0.
+  0.     0.     0.     0.     0.     0.     0.     0.     0.     0.
+  0.     0.     0.     0.     0.     0.     0.     0.     0.     0.
+  0.    57.604  0.     0.     0.     0.     0.     0.     0.     0.
+  0.     0.     0.     0.     0.     0.     0.     0.     0.     0.
+  0.     0.     0.    57.604  0.     0.     0.     0.     0.     0.
+  0.     0.     0.     0.     0.    57.604  0.     0.    57.604  0.
+  0.   ]
+107386
+91

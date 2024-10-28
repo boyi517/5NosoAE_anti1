@@ -1,0 +1,101 @@
+Rank	Genome_ID	Organism	BioSample_ID	Date	Location	Host	Allelic_distance	Similarity_score	p-value
+1	GCA_000018445.1	Acinetobacter baumannii	SAMN02603140	-	-	-	0	100.00000	0.00000
+2	GCA_015537865.1	Acinetobacter baumannii	SAMN14911856	2016	Brazil	Homo sapiens	2231	81.77391	0.00014
+3	GCA_001420515.1	Acinetobacter baumannii	SAMN04054216	2011-11-23	United_Kingdom	Homo sapiens	55	76.55964	0.00112
+4	GCA_014531085.1	Acinetobacter baumannii	SAMN15915119	2010	Egypt	Homo sapiens	2232	76.43417	0.00117
+5	GCA_014531135.1	Acinetobacter baumannii	SAMN15915115	2010	Egypt	Homo sapiens	2233	76.26755	0.00124
+6	GCA_002119355.1	Acinetobacter baumannii	SAMN05590405	2010-01-21	Spain	Homo sapiens	2134	74.34245	0.00236
+7	GCA_005519135.1	Acinetobacter baumannii	SAMN09302593	2005	Italy	Homo sapiens	7	74.33906	0.00237
+8	GCA_900444765.1	Acinetobacter baumannii	SAMEA3146531	-	-	-	30	74.33906	0.00237
+9	GCA_000189675.2	Acinetobacter baumannii	SAMN02471598	-	-	-	53	74.33906	0.00237
+10	ERR1227000	Acinetobacter baumannii	SAMEA3855896	-	-	-	57	74.33906	0.00237
+11	ERR1226980	Acinetobacter baumannii	SAMEA3855876	-	-	-	58	74.33906	0.00237
+12	ERR1226999	Acinetobacter baumannii	SAMEA3855895	-	-	-	59	74.33906	0.00237
+13	GCA_017897945.1	Acinetobacter baumannii	SAMN18614346	2020-01	Lebanon	Homo sapiens	794	74.02193	0.00262
+14	ERR2518363	Acinetobacter baumannii	SAMEA4450001	-	-	-	86	73.85752	0.00276
+15	GCA_003954725.1	Pseudomonas aeruginosa	SAMN10523610	-	-	-	-	72.89942	0.00371
+16	GCA_000789745.1	Pseudomonas aeruginosa	SAMN03105547	2006	France	-	-	72.32368	0.00442
+17	ERR1974813	Pseudomonas aeruginosa	SAMEA104069696	2006/2014	Germany	Homo sapiens sapiens	-	72.32310	0.00442
+18	ERR2870049	Pseudomonas aeruginosa	SAMEA5067490	2011	Germany	-	-	72.32310	0.00442
+19	ERR2870050	Pseudomonas aeruginosa	SAMEA5067491	2011	Germany	-	-	72.32310	0.00442
+20	ERR2870051	Pseudomonas aeruginosa	SAMEA5067492	2011	Germany	-	-	72.32310	0.00442
+21	ERR2870056	Pseudomonas aeruginosa	SAMEA5067497	2011	Germany	-	-	72.32310	0.00442
+22	ERR2870059	Pseudomonas aeruginosa	SAMEA5067500	2011	Germany	-	-	72.32310	0.00442
+23	ERR2870062	Pseudomonas aeruginosa	SAMEA5067503	2011	Germany	-	-	72.32310	0.00442
+24	ERR2870064	Pseudomonas aeruginosa	SAMEA5067505	2011	Germany	-	-	72.32310	0.00442
+25	ERR2870067	Pseudomonas aeruginosa	SAMEA5067508	2011	Germany	-	-	72.32310	0.00442
+26	ERR2870068	Pseudomonas aeruginosa	SAMEA5067509	2011	Germany	-	-	72.32310	0.00442
+27	ERR2870100	Pseudomonas aeruginosa	SAMEA5067541	2011	Germany	-	-	72.32310	0.00442
+28	GCA_904890275.1	Acinetobacter baumannii	SAMEA7451238	2018	Germany	Homo sapiens	56	72.27014	0.00449
+29	GCA_016515875.2	Acinetobacter baumannii	SAMEA2272841	-	-	-	2234	72.26796	0.00449
+30	GCA_017953615.1	Acinetobacter baumannii	SAMN16659760	2013-12-08	Greece	Homo sapiens	36	72.26499	0.00450
+31	GCA_904886905.1	Acinetobacter baumannii	SAMEA7451222	2016	Germany	Homo sapiens	2217	72.26498	0.00450
+32	GCA_016473555.1	Acinetobacter baumannii	SAMN16842974	2019	USA	Homo sapiens	525	72.26494	0.00450
+33	GCA_016473635.1	Acinetobacter baumannii	SAMN16842973	2019	USA	Homo sapiens	526	72.26494	0.00450
+34	GCA_013178575.1	Pseudomonas aeruginosa	SAMN14970731	2008/2009	Spain	Homo sapiens	-	72.25895	0.00450
+35	SRR2939264	Pseudomonas aeruginosa	SAMN04128503	1992	France	-	-	71.76933	0.00520
+36	GCA_015537445.1	Acinetobacter baumannii	SAMN14911878	2016	Brazil	Homo sapiens	2229	71.71767	0.00528
+37	GCA_002245595.1	Acinetobacter baumannii	SAMN07257378	2012-02-02	Brazil	Homo sapiens	2232	71.71767	0.00528
+38	SRR13414674	Pseudomonas aeruginosa	SAMN17290612	2020	Singapore	Homo sapiens	-	71.69487	0.00532
+39	GCA_017897745.1	Acinetobacter baumannii	SAMN18614350	2020-01	Lebanon	Homo sapiens	643	71.44530	0.00572
+40	GCA_900707575.1	Pseudomonas aeruginosa	SAMEA5312748	2018	Spain	Homo sapiens	-	71.25084	0.00604
+41	GCA_900707215.1	Pseudomonas aeruginosa	SAMEA5312723	2018	Spain	Homo sapiens	-	71.17228	0.00618
+42	GCA_005863805.1	Pseudomonas aeruginosa	SAMN11507122	2016-04-29	France	Homo sapiens	-	70.99833	0.00650
+43	GCA_005863995.1	Pseudomonas aeruginosa	SAMN11507130	2016-12-29	France	Homo sapiens	-	70.99833	0.00650
+44	GCA_005863835.1	Pseudomonas aeruginosa	SAMN11507121	2016-03-25	France	Homo sapiens	-	70.99832	0.00650
+45	GCA_001452665.1	Pseudomonas aeruginosa	SAMN04128687	2005	USA	-	-	70.99493	0.00650
+46	GCA_001454545.1	Pseudomonas aeruginosa	SAMN04128758	1994	Greece	-	-	70.99493	0.00650
+47	GCA_005863895.1	Pseudomonas aeruginosa	SAMN11507124	2016-06-12	France	Homo sapiens	-	70.99493	0.00650
+48	GCA_005863955.1	Pseudomonas aeruginosa	SAMN11507127	2016-10-03	France	Homo sapiens	-	70.99493	0.00650
+49	GCA_005863975.1	Pseudomonas aeruginosa	SAMN11507129	2016-10-04	France	Homo sapiens	-	70.99493	0.00650
+50	GCA_005864015.1	Pseudomonas aeruginosa	SAMN11507131	2017-01-29	France	Homo sapiens	-	70.99493	0.00650
+51	GCA_000794405.1	Pseudomonas aeruginosa	SAMN03105462	2010	Spain	-	-	70.99492	0.00650
+52	GCA_005863485.1	Pseudomonas aeruginosa	SAMN11507106	2015-07-29	France	Homo sapiens	-	70.99492	0.00650
+53	GCA_005863695.1	Pseudomonas aeruginosa	SAMN11507117	2016-02-28	France	Homo sapiens	-	70.99492	0.00650
+54	ERR4368834	Pseudomonas aeruginosa	SAMEA7087592	-	Netherlands	-	-	70.99492	0.00650
+55	GCA_005863605.1	Pseudomonas aeruginosa	SAMN11507109	2015-08-25	France	Homo sapiens	-	70.99488	0.00650
+56	GCA_009299675.1	Pseudomonas aeruginosa	SAMN12127425	2014-12	Lebanon	Homo sapiens	-	70.99488	0.00650
+57	GCA_005863495.1	Pseudomonas aeruginosa	SAMN11507107	2015-08-22	France	Homo sapiens	-	70.99404	0.00650
+58	GCA_005863515.1	Pseudomonas aeruginosa	SAMN11507105	2015-07-28	France	Homo sapiens	-	70.99404	0.00650
+59	GCA_005863555.1	Pseudomonas aeruginosa	SAMN11507108	2015-08-24	France	Homo sapiens	-	70.99404	0.00650
+60	GCA_005863585.1	Pseudomonas aeruginosa	SAMN11507110	2015-10-26	France	Homo sapiens	-	70.99404	0.00650
+61	GCA_005863615.1	Pseudomonas aeruginosa	SAMN11507112	2016-02-24	France	Homo sapiens	-	70.99404	0.00650
+62	GCA_005863625.1	Pseudomonas aeruginosa	SAMN11507113	2016-02-25	France	Homo sapiens	-	70.99404	0.00650
+63	GCA_005863685.1	Pseudomonas aeruginosa	SAMN11507114	2016-02-25	France	Homo sapiens	-	70.99404	0.00650
+64	GCA_005863725.1	Pseudomonas aeruginosa	SAMN11507118	2016-02-29	France	Homo sapiens	-	70.99404	0.00650
+65	GCA_005863735.1	Pseudomonas aeruginosa	SAMN11507116	2016-02-26	France	Homo sapiens	-	70.99404	0.00650
+66	GCA_005863785.1	Pseudomonas aeruginosa	SAMN11507119	2016-03-14	France	Homo sapiens	-	70.99404	0.00650
+67	GCA_005863795.1	Pseudomonas aeruginosa	SAMN11507120	2016-03-18	France	Homo sapiens	-	70.99404	0.00650
+68	GCA_005863855.1	Pseudomonas aeruginosa	SAMN11507123	2016-06-12	France	Homo sapiens	-	70.99404	0.00650
+69	GCA_005863925.1	Pseudomonas aeruginosa	SAMN11507126	2016-06-14	France	Homo sapiens	-	70.99404	0.00650
+70	GCA_005863945.1	Pseudomonas aeruginosa	SAMN11507128	2016-10-03	France	Homo sapiens	-	70.99404	0.00650
+71	GCA_000794265.1	Pseudomonas aeruginosa	SAMN03105534	2005	Argentina	-	-	70.96562	0.00656
+72	GCA_004053975.1	Pseudomonas aeruginosa	SAMN10732499	2015	Brazil	Homo sapiens	-	70.96429	0.00656
+73	GCA_000794245.1	Pseudomonas aeruginosa	SAMN03105535	2005	Argentina	-	-	70.96109	0.00657
+74	GCA_000790355.1	Pseudomonas aeruginosa	SAMN03105571	2007	Argentina	-	-	70.96108	0.00657
+75	GCA_016091255.1	Pseudomonas aeruginosa	SAMN11285177	2018	USA	Homo sapiens	-	70.94716	0.00659
+76	GCA_900708365.1	Pseudomonas aeruginosa	SAMEA5312837	2018	Spain	Homo sapiens	-	70.73136	0.00701
+77	GCA_015538125.1	Acinetobacter baumannii	SAMN14911844	2008	Brazil	Homo sapiens	2240	70.65729	0.00715
+78	GCA_016056125.1	Acinetobacter baumannii	SAMN16776070	2019-05-07	Brazil	Homo sapiens	2241	70.65729	0.00715
+79	GCA_005863595.1	Pseudomonas aeruginosa	SAMN11507111	2016-02-11	France	Homo sapiens	-	70.60527	0.00726
+80	GCA_005863765.1	Pseudomonas aeruginosa	SAMN11507115	2016-02-26	France	Homo sapiens	-	70.60527	0.00726
+81	GCA_015537755.1	Acinetobacter baumannii	SAMN14911863	2016	Brazil	Homo sapiens	2230	70.59532	0.00728
+82	GCA_001720765.1	Klebsiella pneumoniae	SAMN05213501	2013	Pakistan	Homo sapiens	-	70.42617	0.00763
+83	GCA_003411595.2	Pseudomonas aeruginosa	SAMN09831365	-	USA	Homo sapiens	-	70.34774	0.00780
+84	GCA_003411875.2	Pseudomonas aeruginosa	SAMN09831350	2001-03	USA	Homo sapiens	-	70.34770	0.00780
+85	GCA_016473855.1	Acinetobacter baumannii	SAMN16842689	2019	USA	Homo sapiens	2246	69.93492	0.00874
+86	GCA_006493735.1	Acinetobacter baumannii	SAMN12087690	2013	Peru	Homo sapiens	2224	69.67475	0.00938
+87	GCA_015537945.1	Acinetobacter baumannii	SAMN14911853	2016	Brazil	Homo sapiens	2231	69.66065	0.00942
+88	GCA_016055715.1	Acinetobacter baumannii	SAMN16776092	2019-12-06	Brazil	Homo sapiens	2233	69.66065	0.00942
+89	SRR7813498	Pseudomonas aeruginosa	SAMN10025378	-	Germany	Homo sapiens	-	69.51651	0.00979
+90	GCA_015627385.1	Acinetobacter baumannii	SAMN07988776	2011	Spain	Homo sapiens	518	69.30221	0.01037
+91	GCA_015627315.1	Acinetobacter baumannii	SAMN07988773	2011	Spain	Homo sapiens	519	69.30221	0.01037
+92	GCA_001541775.1	Acinetobacter baumannii	SAMN04005088	2011-05-03	Spain	Homo sapiens	522	69.30221	0.01037
+93	GCA_001541455.1	Acinetobacter baumannii	SAMN04005086	2011-02-03	Spain	Homo sapiens	523	69.30221	0.01037
+94	GCA_900707685.1	Pseudomonas aeruginosa	SAMEA5312758	2018	Spain	Homo sapiens	-	69.23910	0.01055
+95	GCA_017653735.1	Pseudomonas aeruginosa	SAMN18452711	2016-01-14	Italy	Homo sapiens	-	69.16535	0.01076
+96	GCA_001452835.1	Pseudomonas aeruginosa	SAMN04128700	1997	Germany	-	-	69.13557	0.01085
+97	GCA_003836305.1	Pseudomonas aeruginosa	SAMN07424083	1997	Germany	Homo sapiens	-	69.13557	0.01085
+98	GCA_000793485.1	Pseudomonas aeruginosa	SAMN03105767	2004	Germany	-	-	69.13553	0.01085
+99	ERR4368841	Pseudomonas aeruginosa	SAMEA7087599	-	Netherlands	-	-	69.13276	0.01085
+100	GCA_009887645.1	Pseudomonas aeruginosa	SAMN13701855	2017-12-30	Ukraine	Homo sapiens	-	69.12992	0.01086

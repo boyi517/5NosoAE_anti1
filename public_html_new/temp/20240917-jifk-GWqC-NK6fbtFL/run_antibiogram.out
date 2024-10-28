@@ -1,0 +1,104 @@
+Found: blaPAO_3_FJ666073
+Found: blaPAO_2_FJ666065
+Found: blaPAO_4_AY083592
+Found: blaPAO_1_AY083595
+Found: blaOXA-114c_1_HM056041
+Saving: JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence:76723..77550:blaOXA-114c_1_HM056041:99.516908
+Found: blaOXA-114b_1_HM056040
+Same contig: JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence == JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence
+	blaOXA-114b_1_HM056040 vs blaOXA-114c_1_HM056041
+	overlap found (827): blaOXA-114b_1_HM056040
+Found: blaOXA-114a_1_EU188842
+Same contig: JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence == JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence
+	blaOXA-114a_1_EU188842 vs blaOXA-114c_1_HM056041
+	overlap found (827): blaOXA-114a_1_EU188842
+Found: blaOXA-114f_1_HM368375
+Same contig: JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence == JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence
+	blaOXA-114f_1_HM368375 vs blaOXA-114c_1_HM056041
+	overlap found (827): blaOXA-114f_1_HM368375
+Found: blaOXA-114d_1_HM104633
+Same contig: JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence == JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence
+	blaOXA-114d_1_HM104633 vs blaOXA-114c_1_HM056041
+	overlap found (827): blaOXA-114d_1_HM104633
+Found: blaOXA-114e_1_HM104634
+Same contig: JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence == JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence
+	blaOXA-114e_1_HM104634 vs blaOXA-114c_1_HM056041
+	overlap found (827): blaOXA-114e_1_HM104634
+Found: blaOXA-114g_1_HM368376
+Same contig: JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence == JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence
+	blaOXA-114g_1_HM368376 vs blaOXA-114c_1_HM056041
+	overlap found (827): blaOXA-114g_1_HM368376
+Found: blaOXA-455_1_KP903885
+Same contig: JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence == JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence
+	blaOXA-455_1_KP903885 vs blaOXA-114c_1_HM056041
+	overlap found (815): blaOXA-455_1_KP903885
+	827 <= 1642
+		Scores: 88.8888888888889 cmp 99.51690821256038
+Found: blaOXA-459_1_KP903889
+Same contig: JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence == JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence
+	blaOXA-459_1_KP903889 vs blaOXA-114c_1_HM056041
+	overlap found (815): blaOXA-459_1_KP903889
+	827 <= 1642
+		Scores: 88.768115942029 cmp 99.51690821256038
+Found: blaOXA-513_1_KU323972
+Same contig: JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence == JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence
+	blaOXA-513_1_KU323972 vs blaOXA-114c_1_HM056041
+	overlap found (815): blaOXA-513_1_KU323972
+	827 <= 1642
+		Scores: 88.52657004830918 cmp 99.51690821256038
+Found: blaOXA-243_1_AFRQ01000031
+Same contig: JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence == JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence
+	blaOXA-243_1_AFRQ01000031 vs blaOXA-114c_1_HM056041
+	overlap found (815): blaOXA-243_1_AFRQ01000031
+	827 <= 1642
+		Scores: 88.06890414441902 cmp 99.51690821256038
+Found: blaOXA-457_1_KP903887
+Same contig: JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence == JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence
+	blaOXA-457_1_KP903887 vs blaOXA-114c_1_HM056041
+	overlap found (815): blaOXA-457_1_KP903887
+	827 <= 1642
+		Scores: 88.16425120772948 cmp 99.51690821256038
+Found: blaOXA-458_1_KP903888
+Same contig: JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence == JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence
+	blaOXA-458_1_KP903888 vs blaOXA-114c_1_HM056041
+	overlap found (814): blaOXA-458_1_KP903888
+	827 <= 1641
+		Scores: 87.3457776830539 cmp 99.51690821256038
+Found: blaOXA-258_1_HE614014
+Same contig: JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence == JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence
+	blaOXA-258_1_HE614014 vs blaOXA-114c_1_HM056041
+	overlap found (814): blaOXA-258_1_HE614014
+	827 <= 1641
+		Scores: 85.83416583416583 cmp 99.51690821256038
+Found: blaOXA-364_1_JX306689
+Same contig: JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence == JALJSE010000005.1 Achromobacter xylosoxidans strain Ax 198 contig_00005, whole genome shotgun sequence
+	blaOXA-364_1_JX306689 vs blaOXA-114c_1_HM056041
+	overlap found (793): blaOXA-364_1_JX306689
+	827 <= 1620
+		Scores: 85.2921338073102 cmp 99.51690821256038
+Found: car(A)_1_M80346
+Found: srm(B)_1_X63451
+Found: srm(B)_1_X63451
+Found: OqxB_1_EU370913
+Found: OqxB_1_EU370913
+Saving: JALJSE010000086.1 Achromobacter xylosoxidans strain Ax 198 contig_00086, whole genome shotgun sequence:18535..19891:OqxB_1_EU370913:30.873242
+Found: OqxB_1_EU370913
+Found: OqxB_1_EU370913
+Saving: JALJSE010000086.1 Achromobacter xylosoxidans strain Ax 198 contig_00086, whole genome shotgun sequence:18535..19891:OqxB_1_EU370913:30.873242
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 57.638999999999996
+ 57.638999999999996 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 57.638999999999996 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 57.638999999999996 0 0 0 0 0 0 0 0 0 0 0 57.638999999999996 0 0
+ 57.638999999999996 0 0]
+[ 0.     0.     0.     0.     0.     0.     0.     0.     0.     0.
+  0.     0.     0.     0.     0.     0.     0.     0.     0.     0.
+  0.     0.     0.    57.639 57.639  0.     0.     0.     0.     0.
+  0.     0.     0.     0.     0.     0.     0.     0.     0.     0.
+  0.     0.     0.     0.     0.     0.     0.     0.     0.     0.
+  0.    57.639  0.     0.     0.     0.     0.     0.     0.     0.
+  0.     0.     0.     0.     0.     0.     0.     0.     0.     0.
+  0.     0.     0.    57.639  0.     0.     0.     0.     0.     0.
+  0.     0.     0.     0.     0.    57.639  0.     0.    57.639  0.
+  0.   ]
+107386
+91
